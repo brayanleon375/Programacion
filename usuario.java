@@ -1,3 +1,4 @@
+//Diego Contreras y Brayan Leon
 import java.util.Scanner;
 
 public class usuario {
@@ -178,4 +179,5 @@ public class usuario {
         }
         return idx;
     }
+
 }
