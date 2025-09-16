@@ -1,3 +1,5 @@
+//Brayan Leon y Thomas Castañeda
+
 import java.util.Scanner;
 
 public class UsReal {
@@ -177,4 +179,5 @@ public class UsReal {
         }
     }
 }
+
 }
