@@ -1,3 +1,4 @@
+//Kevin Thomas Castañeda y Brayan Esteban Leon
 import java.util.Random;
 import java.util.Scanner;
 
@@ -125,4 +126,5 @@ public class partir3 {
         }
         System.out.println();
     }
+
 }
